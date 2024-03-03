@@ -1,0 +1,1 @@
+The Telephone Package is a simple JavaScript implementation of a telephone system that allows users to add, remove, and dial phone numbers. It also includes an observer pattern to notify observers whenever a phone number is dialed.
