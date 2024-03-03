@@ -93,8 +93,8 @@ class Observer {
   
   dialPhoneNumber("+2348127790800");
   dialPhoneNumber("+2349132044239");
-  dialPhoneNumber("+2348127790800"); // Not added, so it won't dial
+  dialPhoneNumber("+2348127790800"); 
   
   removePhoneNumber("+2349132044239");
-  dialPhoneNumber("+2348127790800"); // Not added, so it won't dial
+  dialPhoneNumber("+2348127790800"); 
   
